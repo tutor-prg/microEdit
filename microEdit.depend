@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689882329 source:c:\users\hp\desktop\work1\microedit\tools.c
+	"tools.h"
+
+1689882329 c:\users\hp\desktop\work1\microedit\tools.h
+	<windows.h>
+
+1689881176 source:c:\users\hp\desktop\work1\microedit\main.c
+	"tools.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
